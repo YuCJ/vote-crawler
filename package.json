@@ -1,0 +1,34 @@
+{
+  "name": "vote-crawler",
+  "version": "1.0.0",
+  "description": "爬政大選研中心資料",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuCJ/vote-crawler.git"
+  },
+  "author": "YuCJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuCJ/vote-crawler/issues"
+  },
+  "homepage": "https://github.com/YuCJ/vote-crawler#readme",
+  "dependencies": {
+    "axios": "^0.16.0",
+    "cheerio": "0.22.0",
+    "es6-promise": "^4.1.0",
+    "iconv-lite": "0.4.15",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.4",
+    "request": "2.81.0",
+    "request-promise": "^4.2.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}

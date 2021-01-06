@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/YuCJ/vote-crawler#readme",
   "dependencies": {
-    "axios": "^0.16.0",
+    "axios": "^0.21.1",
     "cheerio": "0.22.0",
     "es6-promise": "^4.1.0",
     "iconv-lite": "0.4.15",
